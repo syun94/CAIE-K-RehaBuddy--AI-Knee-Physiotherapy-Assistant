@@ -1,0 +1,7 @@
+Definition of wrong posture during exercise:
+Squat_WT: Squat with weight transfer on the healthy leg.
+Squat_FL:Squat by placing the injured leg in front.
+Extension_NF:Extension of the injured knee without full range motion.
+Extension_LL: Extension of the injured knee with lifting of the limb from the chair.
+Gait_NF: Walking with the injured limb not full knee extension
+Gait_HA: Walking with the injured limb in full knee extension with hip abduction
