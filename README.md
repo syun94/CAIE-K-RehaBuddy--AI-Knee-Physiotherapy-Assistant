@@ -1,2 +1,2 @@
 # CAIE-K-RehaBuddy--AI-Knee-Physiotherapy-Assistant
-KRehaBuddy: AI-Powered Knee Rehabilitation Feedback System A smart rehabilitation assistant that analyzes exercise form using a trained CNN-Attention model and provides personalized feedback based on official physiotherapy guidelines. The programme is aim for constructive corrections, positive reinforcement, and interactive knee exercise guidance.
+KRehaBuddy: AI-Powered Knee Rehabilitation Feedback System, A smart rehabilitation assistant that analyzes exercise form using a trained CNN-Attention model and provides personalized feedback based on official physiotherapy guidelines. The programme is aim for constructive corrections, positive reinforcement, and interactive knee exercise guidance.
